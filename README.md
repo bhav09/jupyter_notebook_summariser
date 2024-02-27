@@ -1,6 +1,8 @@
-# Jupyter Notebook Summar 📖
+# Jupyter Notebook Summary 📖 
 
 Quickly get a high-level summary of your Jupyter Notebooks with visualizations, flow chart and code analysis using Gemini.
+
+Readme generated using [AutoGenReadme](https://github.com/bhav09/AutoGenReadme)
 
 ## ✨ Features
 
