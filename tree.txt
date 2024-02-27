@@ -1,0 +1,8 @@
+📁 jupyter_notebook_summar/
+├─📄 requirements.txt
+├─📄 README.md
+├─📄 tree.txt
+└─📁 src/
+  ├─📄 using_gemini.py
+  ├─📄 app.py
+  └─📄 read_pdf.py
