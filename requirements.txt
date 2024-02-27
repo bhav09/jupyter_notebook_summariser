@@ -1,0 +1,5 @@
+streamlit==1.31.1
+pyppeteer==2.0.0
+pillow==10.2.0
+pandas==2.2.1
+google-generativeai==0.3.2
